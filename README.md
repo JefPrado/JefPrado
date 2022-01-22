@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @JefPrado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+             Olá! Eu sou o Jefferson Prado 
+
+
+
+- ⏳ Estudando html,css e javascript com foco em linguagem c#
+- 📫 Contate-me: jeffersonprado@outlook.com.br
 
 <div>
   <a href="https://github.com/JefPrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefPrado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefPrado&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefPrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefPrado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

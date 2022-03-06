@@ -2,7 +2,7 @@
 
 
 
-- ⏳ Estudando html,css e javascript com foco em linguagem c#
+- ⏳ Estudando javascript, c# .NET 
 - 💻 Início desta jornada Dez/21
 - 📫 Contate-me: jeffersonprado@outlook.com.br
 
